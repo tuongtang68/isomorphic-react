@@ -1,0 +1,13 @@
+CACHE MANIFEST
+# a15ca6a3e456511738bd
+
+/bundle.web.a15ca6a3e456511738bd.js
+
+CACHE:
+**/*.jpg
+
+NETWORK:
+*
+
+SETTINGS:
+prefer-online

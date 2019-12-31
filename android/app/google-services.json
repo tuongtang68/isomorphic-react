@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "949287044866",
+    "firebase_url": "https://isomorphic-react-7a4d5.firebaseio.com",
+    "project_id": "isomorphic-react-7a4d5",
+    "storage_bucket": "isomorphic-react-7a4d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949287044866:android:d2df217b49c5678770a41b",
+        "android_client_info": {
+          "package_name": "com.isomorphic_react"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949287044866-7sdjo09e5a4p90l5r5657b438eec262i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCk6go-i6xr_gvAjhQhe-U9uy164D_o6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949287044866-7sdjo09e5a4p90l5r5657b438eec262i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "949287044866-vdreoul445aiored18m149idr60jh1hn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "indiv.tuongtang.isomorphicreact"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
